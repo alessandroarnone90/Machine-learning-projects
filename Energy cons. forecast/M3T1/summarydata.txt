@@ -1,0 +1,32 @@
+    DateTime                        GAP              Others           Kitchen          Laundry      
+ Min.   :2006-12-16 18:24:00   Min.   :  1.267   Min.   : -2.400   Min.   : 0.000   Min.   : 0.000  
+ 1st Qu.:2007-12-10 06:37:45   1st Qu.:  5.133   1st Qu.:  3.800   1st Qu.: 0.000   1st Qu.: 0.000  
+ Median :2008-11-30 02:22:30   Median : 10.033   Median :  5.500   Median : 0.000   Median : 0.000  
+ Mean   :2008-12-02 01:59:44   Mean   : 18.194   Mean   :  9.315   Mean   : 1.122   Mean   : 1.299  
+ 3rd Qu.:2009-11-23 21:31:15   3rd Qu.: 25.467   3rd Qu.: 10.367   3rd Qu.: 0.000   3rd Qu.: 1.000  
+ Max.   :2010-11-26 22:02:00   Max.   :185.367   Max.   :124.833   Max.   :88.000   Max.   :80.000  
+                                                                                                    
+   Heater_AC        Year          Quarter           Month             Week            Weekday      
+ Min.   : 0.000   2006: 21932   Winter:514363   October:178753   Min.   : 1.00   Monday   :293628  
+ 1st Qu.: 0.000   2007:521669   Spring:517076   May    :178553   1st Qu.:13.00   Tuesday  :294790  
+ Median : 1.000   2008:526905   Summer:516399   July   :178422   Median :26.00   Wednesday:293659  
+ Mean   : 6.458   2009:521320   Fall  :501442   March  :176289   Mean   :26.29   Thursday :293098  
+ 3rd Qu.:17.000   2010:457454                   January:175425   3rd Qu.:39.00   Friday   :295077  
+ Max.   :31.000                                 August :170419   Max.   :53.00   Saturday :289179  
+                                                (Other):991419                   Sunday   :289849  
+      Day             Hour          Minute           Date                Seasons            DayTime      
+ Min.   : 1.00   Min.   : 0.0   Min.   : 0.0   Oct 2009:  44699   Summer 2008:132475   Morning  :596919  
+ 1st Qu.: 8.00   1st Qu.: 5.0   1st Qu.:15.0   Oct 2010:  44699   Spring 2008:132417   Afternoon:512105  
+ Median :16.00   Median :12.0   Median :30.0   Oct 2007:  44698   Spring 2009:132412   Evening  :341875  
+ Mean   :15.71   Mean   :11.5   Mean   :29.5   Oct 2008:  44657   Summer 2007:132284   Night    :598381  
+ 3rd Qu.:23.00   3rd Qu.:18.0   3rd Qu.:45.0   May 2007:  44640   Fall 2009  :131095                     
+ Max.   :31.00   Max.   :23.0   Max.   :59.0   Dec 2007:  44639   (Other)    :909211                     
+                                               (Other) :1781248   NA's       :479386                     
+    Weekend       
+ Weekday:1470252  
+ Weekend: 579028  
+                  
+                  
+                  
+                  
+                  
